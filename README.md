@@ -10,8 +10,6 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-kurapati-22022y/)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YASHWANTH-KURAPATI)
-  [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YASHWANTHKURAPATI22@GMAIL.COM)
-  [![Resume](https://img.shields.io/badge/Resume-View_PDF-06B6D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Yashwanth-Kurapati-Resume.pdf)
   [![Projects](https://img.shields.io/badge/Explore-My_Projects-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YASHWANTH-KURAPATI?tab=repositories)
 </div>
 
@@ -66,11 +64,13 @@ I'm a B.Tech student at **MLR Institute of Technology, Hyderabad**, building pra
 
 | Project | What it does | Status / Links |
 | :--- | :--- | :--- |
+| **EDVO** | AI-powered, voice-first platform for discovering educational and career opportunities. | In development |
 | **MLRIT Student Management System** | Student management application with role-based dashboards and database integration. | [Source code](https://github.com/YASHWANTH-KURAPATI/mlrit-Student-Management-system) · [Live demo](https://mlrit-student-management-system-wu4a.onrender.com) |
 | **2048 Game** | Interactive puzzle game with score tracking and a responsive web version. | Built |
 | **LangChain Agent** | Experiments with AI agents and language-model workflows. | Learning project |
 | **RAG Implementation** | Experiments with retrieval-augmented generation for contextual responses. | Learning project |
 | **LangGraph Implementation** | Exploration of graph-based AI workflows. | Learning project |
+| **Face Recognition Attendance** | Computer vision-based automated attendance concept. | In progress |
 
 [Browse all repositories →](https://github.com/YASHWANTH-KURAPATI?tab=repositories)
 
@@ -114,34 +114,7 @@ These are planned portfolio projects, not claims of completed work.
   <a href="https://github.com/YASHWANTH-KURAPATI">
     <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YASHWANTH-KURAPATI&bg_color=0B1120&color=22D3EE&line=06B6D4&point=FFFFFF&hide_border=true&area=true" alt="GitHub contribution activity graph" />
   </a>
-</div>
-
-## Contribution Tetris
-
-<div align="center">
-  <a href="https://github.com/YASHWANTH-KURAPATI">
-    <img width="100%" src="./assets/contribution-tetris.gif" alt="Tetris-style blocks falling into the GitHub contribution calendar, revealing actual contribution activity" />
-  </a>
-  <p>Falling blocks reveal my real GitHub contribution calendar. Updated daily with GitHub Actions.</p>
-</div>
-
-<details>
-<summary><b>View static contribution calendar</b></summary>
-
-![Static GitHub contribution calendar](./assets/contribution-calendar.png)
-
-</details>
-
-[View my native GitHub contribution calendar](https://github.com/YASHWANTH-KURAPATI)
-
----
-
-## Resume
-
-<div align="center">
-  <p>Explore my education, technical skills, projects and certifications.</p>
-  <a href="./assets/Yashwanth-Kurapati-Resume.pdf"><img src="https://img.shields.io/badge/View_Resume-PDF-0891B2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View resume PDF" /></a>
-  <a href="https://raw.githubusercontent.com/YASHWANTH-KURAPATI/YASHWANTH-KURAPATI/HEAD/assets/Yashwanth-Kurapati-Resume.pdf"><img src="https://img.shields.io/badge/Open_Original-PDF-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Open or download original resume PDF" /></a>
+  <p><a href="https://github.com/YASHWANTH-KURAPATI">View my native GitHub contribution calendar</a></p>
 </div>
 
 ---
@@ -154,9 +127,6 @@ I'm interested in connecting with developers, data professionals and fellow lear
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-kurapati-22022y/)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YASHWANTH-KURAPATI)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YASHWANTHKURAPATI22@GMAIL.COM)
-
-**Email:** [YASHWANTHKURAPATI22@GMAIL.COM](mailto:YASHWANTHKURAPATI22@GMAIL.COM)
 
 **Learn → Build → Explain → Improve**
 
